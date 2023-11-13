@@ -7,3 +7,5 @@ C:\Users\pysh3\source\repos\gorsel\görsel projesi\WindowsFormsApp1\obj\Debug\Wi
 C:\Users\pysh3\source\repos\gorsel\görsel projesi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\pysh3\source\repos\gorsel\görsel projesi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\pysh3\source\repos\gorsel\görsel projesi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pysh3\source\repos\gorsel\görsel projesi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\pysh3\source\repos\gorsel\görsel projesi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
